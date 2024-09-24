@@ -2,7 +2,7 @@
 :root {
   --color-black: hsla(0, 0%, 0%, 1);
   --color-white: hsla(0, 0%, 100%, 1);
-  --font-raleway: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-raleway: "Raleway", sans-serif;
   --section-horizontal-padding: 1.5rem;
 }
 
