@@ -2,7 +2,6 @@
 :root {
   --color-black: hsla(0, 0%, 0%, 1);
   --color-white: hsla(0, 0%, 100%, 1);
-  --font-raleway: "Raleway", sans-serif;
   --section-horizontal-padding: 1.5rem;
 }
 
@@ -161,8 +160,8 @@
 .bet-button {
   background-color: transparent;
   color: var(--color-white);
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
-  font-family: var(--font-raleway);
   padding: 10px 31px 12px 34px;
   border: 1px solid;
 }
