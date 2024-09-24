@@ -176,13 +176,14 @@
 .lots__card-list {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  gap: 25px 25px;
   flex-wrap: wrap;
   list-style: none;
   color: var(--color-white);
 }
 
 .lots__card-list-item {
+  min-height: 563px;
   flex-basis: 20.875rem;
   flex-grow: 0;
   background-size: cover;
